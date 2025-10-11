@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-form-native",
   "dependencies": {
-    "@react-native-community/datetimepicker": "7.7.0",
-    "@react-native-picker/picker": "2.6.1",
+    "@react-native-community/datetimepicker": "8.4.1",
+    "@react-native-picker/picker": "^2.11.1",
     "tcomb-validation": "3.0.0"
   },
   "devDependencies": {
@@ -33,7 +33,7 @@
     "eslint-plugin-react": "7.31.8",
     "prettier": "^2.7.1",
     "prop-types": "^15.5.10",
-    "react": "^18.2.0",
+    "react": "19.0.0",
     "tape": "5.6.0"
   },
   "tags": [
@@ -51,5 +51,6 @@
     "react",
     "react-native",
     "react-component"
-  ]
+  ],
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
